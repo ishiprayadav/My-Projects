@@ -1,10 +1,10 @@
-# Cab Finder
+# Cab Locator
 
 Given GPS co-ordinates(in degrees) of a person who needs a cab and co-ordinates of all the cabs in the city stored in a text file in JSON format,
 find the user-id and name of all the cab drivers available in 50 km proximity.
 
 ## Files in the Directory
-* CabFinder.cpp : Contains the source code of the Project
+* CabLocator.cpp : Contains the source code of the Project
 * Customers.json : Contains the co-ordinates of all the cabs in the city & the details of the Cab drivers
 
 ## Approach Used:
